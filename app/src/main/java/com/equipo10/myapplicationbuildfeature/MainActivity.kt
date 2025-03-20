@@ -27,4 +27,10 @@ class MainActivity : AppCompatActivity() {
         startActivity(intent)
     }
 
+    fun onSendClickRecycle()
+    {
+        val intent = Intent(this,RecycleViewActivity::class.java).apply{
+        }
+        startActivity(intent)    }
+
 }

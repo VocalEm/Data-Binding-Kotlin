@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">My Application build feature</string>
+    <string-array name="strings_colors">
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Celeste</item>
+        <item>Cian</item>
+        <item>Orange</item>
+        <item>Purple</item>
+        <item>Red</item>
+        <item>Rose</item>
+        <item>Yellow</item>
+    </string-array>
 </resources>
